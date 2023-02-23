@@ -1,0 +1,8 @@
+.thead{
+    font-size: large;
+    background-color: aqua;
+    color: black;
+}
+tr:hover{
+    color: lawngreen
+}
